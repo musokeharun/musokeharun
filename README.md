@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [yotvchannels.com](https://yotvchannels.com/)
 
-- 🌱 I’m currently learning **Golang,Gin,Patterns of Enterprise Software,Cloud Infrastructure**
+- 🌱 I’m currently learning **Golang,Gin,Patterns of Enterprise Software,Cloud Infrastructure, Rust, Efficient System Design**
 
 - 👯 I’m looking to collaborate on [Ardify Local Station](https://github.com/Tena-Ardify/ardify-workspace)
 
