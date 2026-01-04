@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **java,kotlin,python,php,react,android,compose,golang,typescript,javascript,nodejs,sql,docker,redis,rabbitmq,swift**
 
-- 📫 How to reach me **musokeharun@gmail.com**
+- 📫 How to reach me **musokeharuna90@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/musoke-haruna-a8410b201/](https://www.linkedin.com/in/musoke-haruna-a8410b201/)
 
